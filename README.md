@@ -2,6 +2,13 @@
 
 A full stack task management application built with **.NET 10** and **React 19**, featuring JWT authentication, per-user task ownership, and a responsive UI.
 
+## 📺 Demo
+
+[![TskManager Demo](https://img.youtube.com/vi/94uqS6YNGtM/maxresdefault.jpg)](https://www.youtube.com/watch?v=94uqS6YNGtM)
+
+*Click the image to watch a 2-minute demo of the application.*
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🎯 Features
 
 - 🔐 User registration and login with JWT authentication
